@@ -9,7 +9,8 @@
 
 # Игнорирование кэша Python
 __pycache__/
-.ipynb_checkpoints
+.ipynb_checkpoints/
+.idea/
 *.pyc
 
 # Игнорирование виртуальных окружений
