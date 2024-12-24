@@ -3,8 +3,7 @@
 *.swo
 
 # macOS system files
-.DS_Store
-**/.DS_Store/
+**/.DS_Store
 
 # Игнорирование логов и временных файлов
 *.log
@@ -13,7 +12,6 @@
 
 # Игнорирование кэша Python
 __pycache__/
-.ipynb_checkpoints/
 **/.ipynb_checkpoints/
 .idea/
 *.pyc
